@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jo1910
 - 👀 I’m interested in C#, SQL
-- 🌱 I’m currently learning C# and .NET Framework
-- 💞️ I’m looking to collaborate on C# projects
+- 🌱 I’m currently learning AngularJS and Web API
 - 📫 How to reach me - [My portfolio](http://jovanamitic.me)
 
 <!---
